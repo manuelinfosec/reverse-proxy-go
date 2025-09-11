@@ -1,4 +1,4 @@
-# goProx
+# reverse-proxy-go
 
 A minimal http reverse proxy, written in Go intended to run as a Google Cloud Function.
 Configuration can be done by environment variables:
